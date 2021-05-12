@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netfhx.github.io</id>
     <title>NETFHX</title>
-    <updated>2021-04-20T01:47:38.151Z</updated>
+    <updated>2021-05-12T09:09:47.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netfhx.github.io"/>
     <link rel="self" href="https://netfhx.github.io/atom.xml"/>
@@ -11,100 +11,73 @@
     <icon>https://netfhx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NETFHX</rights>
     <entry>
-        <title type="html"><![CDATA[常用最佳软件推荐]]></title>
-        <id>https://netfhx.github.io/post/chang-yong-zui-jia-ruan-jian-tui-jian/</id>
-        <link href="https://netfhx.github.io/post/chang-yong-zui-jia-ruan-jian-tui-jian/">
+        <title type="html"><![CDATA[禁忌女孩第二季]]></title>
+        <id>https://netfhx.github.io/post/jin-ji-nu-hai-di-er-ji/</id>
+        <link href="https://netfhx.github.io/post/jin-ji-nu-hai-di-er-ji/">
         </link>
-        <updated>2021-04-20T01:20:34.000Z</updated>
-        <summary type="html"><![CDATA[<p>windows 常用系统镜像和平台同类中的优质软件！<br>
-为避免选择困难，以下所有分类有且仅有一款软件，仅代表个人观点...</p>
+        <updated>2021-05-07T08:40:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>正义未得伸张？别忘了，有因必有果，让新同学来重写他们的结局。改编自 8 则真人真事，《来路不明的转学生》全新第 2 季即将上线。<br>
+学校即将开学，《来路不明的转学生》要再次让坏人好看。5 月 7 日，Netflix 独家。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>windows 常用系统镜像和平台同类中的优质软件！<br>
-为避免选择困难，以下所有分类有且仅有一款软件，仅代表个人观点...</p>
+        <content type="html"><![CDATA[<p>正义未得伸张？别忘了，有因必有果，让新同学来重写他们的结局。改编自 8 则真人真事，《来路不明的转学生》全新第 2 季即将上线。<br>
+学校即将开学，《来路不明的转学生》要再次让坏人好看。5 月 7 日，Netflix 独家。</p>
 <!-- more -->
-<p>windows系统<br>
-windows官方系统镜像，复制ED2K、BT链接后使用迅雷下载。<br>
-Windows 10, Version 1909 简体中文消费者版64位<br>
-ed2k://|file|cn_windows_10_consumer_editions_version_1909_x64_dvd_76365bf8.iso|5381154816|6A56DE112B164EC054D1104C53F8F10B|/</p>
-<p>Windows 10, Version 1909 简体中文消费者版32位<br>
-ed2k://|file|cn_windows_10_consumer_editions_version_1909_x86_dvd_08dd0d3c.iso|3859558400|40991568D016CCBAEE1E67CD38FAABE8|/</p>
-<p>Windows 10 简体中文企业版2019长期服务版64位<br>
-ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/</p>
-<p>Windows 10 简体中文企业版2019长期服务版32位<br>
-ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/</p>
-<p>Windows 10 简体中文企业版2016长期服务版64位<br>
-ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/</p>
-<p>Windows 10 简体中文企业版2016长期服务版32位<br>
-ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/</p>
-<p>Windows 7 With SP1 简体中文旗舰版64位<br>
-ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/</p>
-<p>Windows 7 With SP1 简体中文旗舰版32位<br>
-ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/</p>
-<p>Windows XP SP3 简体中文专业版<br>
-ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/</p>
-<p>常用最佳软件<br>
-浏览器<br>
-Google Chrome 浏览器<br>
-特别推荐，个人认为最好的浏览器没有之一，兼容性是最好的。同步功能也非常好用，多平台或者多台电脑使用俱佳。</p>
-<p>影音播放器<br>
-PotPlayer<br>
-特别推荐，个人认为最简单好用的本地视频播放器，民间皮肤丰富多样，总有你喜欢的风格。</p>
-<p>下载工具<br>
-IDM<br>
-Internet Download Manager 必备最佳网络下载利器，网页嗅探高速下载无所不能，缺点是不能下载磁力和种子</p>
-<p>迅雷X版<br>
-迅雷X版于2018年6月推出，X版全面升级界面、框架、下载引擎、选项设置、对相关下载信息进行强化。</p>
-<p>办公工具<br>
-WPS Office<br>
-WPS Office, 永久的免费办公专家，绿色便携版是网友制作去除了联网功能，专注于办公，变得更加好用</p>
-<p>Office 2010<br>
-Office绿色精简版全套系列，由xb21cn专注绿化精简制作，包含几大常用组件，支持自动激活，适合日常使用</p>
-<p>万兴PDF专家<br>
-一款国产PDF全套解决方案专家，专注于PDF的创建、编辑、转换、标注、保护、管理、水印、压缩、签名等功能。</p>
-<p>即时通讯<br>
-腾讯 TIM<br>
-轻聊的 QQ：风格简约，QQ 好友，消息无缝同步。 界面干净简洁、操作上轻量易用、都能看出 TIM 想营造一个纯粹的办公环境。</p>
-<p>远程控制<br>
-AnyDesk<br>
-AnyDesk 是一款号称速度最快的免费远程连接 / 远程桌面控制软件 实测在双方同等网络情况下，是 QQ 的 N 倍</p>
-<p>文本编辑器<br>
-Notepad++<br>
-推荐用其替代系统自带的记事本，一款强大的轻量级开源文本编辑器，支持大部分主流语言的语法高亮显示。支持插件众多。</p>
-<p>压缩工具<br>
-WinRAR</p>
-<p>格式转换工具<br>
-格式工厂<br>
-格式工厂，转换格式用格式工厂很简单便捷。一般碰到有喜欢的视频如果想转换成网页可以播放的视频格式，并且支持影音剪辑、压缩等多功能操作。</p>
-<p>系统安全<br>
-火绒安全<br>
-电脑是否中毒和使用习惯有关。安全软件最大的作用并不是杀毒，而是给你一个安心。让你可以无所顾忌的去玩耍。</p>
-<p>Windows实用工具<br>
-Dism++<br>
-Dism++，最强的Windows实用工具，系统补丁更新工具，系统精简工具，系统优化工具。</p>
-<p>Adobe Flash Player<br>
-Adobe® Flash® Player控件一直是Windows系统必装的浏览器网页视频播放支持插件，现在视频网站已经逐步支持HTML5。</p>
-<p>阅读器<br>
-Calibre 阅读器<br>
-Calibre 是一个免费的电子图书阅读器，包括图书馆管理，格式转换，新闻，将材料转换为电子书，以及电子书阅读器同步功能</p>
-<p>搜索工具<br>
-Everything<br>
-Everything 是速度最快的文件名搜索工具，其速度之快令人震惊，文件名搜索瞬间呈现结果</p>
-<p>屏幕录制工具<br>
-Bandicam<br>
-Bandicam，游戏录制神器，视频录制利器，高清频录制专家，号称世界三大视频录制神器之一</p>
-<p>图片处理<br>
-photoshop cc<br>
-Adobe Photoshop CC 依然是数字图象处理和编辑的业界标准，提供广泛的专业级润饰工具套件，并集成了专为激发灵感而设计的强大编辑功能</p>
-<p>FTP 工具<br>
-FlashFXP<br>
-FlashFxp – 老牌 FTP/FXP 传输必备软件，功能强大最常用的 FTP，FXP，FTPS，SFTP 上传下载必备工具，它可以快速部署和维护用户网站</p>
-<p>输入法<br>
-搜狗输入法<br>
-搜狗拼音输入法是装机必备软件，其打字准、词库全、功能强大、使得输入更高效</p>
-<p>微软运行库合集<br>
-比如 QQ、一些大型游戏等提示需要安装 vc 运行库，这个合集提供了所有版本的运行库，直接安装即可解决问题。</p>
-<p><a href="https://wwa.lanzous.com/b0beb5oof">点击进入常用软件下载</a></p>
-<p>数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
+<h2 id="第一集">第一集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/be826df1-8a1d-47d3-965d-0ef546083bba.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E01.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=AoB0AZRTuVdB8swn8T6pPCEtNo0%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620818857&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=705668723&x-amz-UID=172982920492925&x-amz-UFID=11377313721331375" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第二集">第二集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/1f004cae-e8f8-415f-bc5c-6b2d9a65d9b3.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E02.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=nOj%2BLtTxj41g6TlPJ16JA7MUhlk%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620815122&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=556786733&x-amz-UID=172982920492925&x-amz-UFID=71490313293175054" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第三集">第三集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/e7a7574f-0911-4e12-8560-dc697231ad7d.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E03.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=m15xMBK/O9jOlfn0NCedmvmzN1I%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620817556&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=641214924&x-amz-UID=172982920492925&x-amz-UFID=11377313721331491" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第四集">第四集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/53018cb4-63b4-44e0-9977-3d41ff1323a6.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E04.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=W4PwGa7kySeDkhvDb4kWIAqNYZk%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620814601&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=611077843&x-amz-UID=172982920492925&x-amz-UFID=61403313279904374" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第五集">第五集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/168b0e36-0946-4645-9835-321c4fbe7ad7.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E05.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=XppaPBgupZFgw8nizvUEAysR3AQ%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620815571&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=666890338&x-amz-UID=172982920492925&x-amz-UFID=11318313721143251" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第六集">第六集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/39c30dad-7970-4245-b30c-58adaa12b766.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E06.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=XE07TcjHS7WA0zYVI5SlD1n/gmM%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620819899&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=699010494&x-amz-UID=172982920492925&x-amz-UFID=31507313197224864" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第七集">第七集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/9bbb4193-cf22-439b-aa34-4cb4e467ad49.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E07.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=GA8BJn0GbsoDZjv/CF/kuLz3JfE%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620819895&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=707415034&x-amz-UID=172982920492925&x-amz-UFID=11377313721331293" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第八集">第八集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/b7ff7c35-fa8e-42e6-9c60-c7f12af7e118.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E08.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=xvsc%2BcZlatYwkPVIHd5mg153PnA%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620817922&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=624896229&x-amz-UID=172982920492925&x-amz-UFID=41423313299151895" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<p>本站资源均网络搜集，如有关视频侵犯了你的权益，请联系邮箱：iqqz#qq.com(#改为@)，本站将于24小时内删除！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禁忌女孩第一季]]></title>
+        <id>https://netfhx.github.io/post/jinjinvhai1/</id>
+        <link href="https://netfhx.github.io/post/jinjinvhai1/">
+        </link>
+        <updated>2018-08-18T01:20:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>来自未名地方的新生 Nanno 如伊甸园的毒蛇，放大人们的欲望，揭露心灵深处的黑暗。他是令人尊敬的老师，一场视频风波揭露了老师背后的肮脏行为，性侵、威胁，道貌岸然的样子由 Nanno 来放大！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>来自未名地方的新生 Nanno 如伊甸园的毒蛇，放大人们的欲望，揭露心灵深处的黑暗。他是令人尊敬的老师，一场视频风波揭露了老师背后的肮脏行为，性侵、威胁，道貌岸然的样子由 Nanno 来放大！</p>
+<!-- more -->
+<h2 id="第一集">第一集</h2>
+<p><amp-video controls width="640" height="360" src="https://media-gdgz-corp.gdoss.xstore.ctyun.cn/CORPCLOUD/be826df1-8a1d-47d3-965d-0ef546083bba.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E7%A6%81%E5%BF%8C%E5%A5%B3%E5%AD%A9S02E01.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=yb86p%2BslzFqdMmCfv8lL%2BAVFAL8%3D&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&Expires=1620811520&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=705668723&x-amz-UID=172982920492925&x-amz-UFID=11377313721331375" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第二集">第二集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/d16eafd1-ea0e-4729-b794-376bcc920372?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E02.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=JSCVZcMzLUy2aTk88JqI3KK7X1A%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620815838&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=599609660&x-amz-UID=172982920492925&x-amz-UFID=71345312288629988" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第三集">第三集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/d98b7ccc-c714-4ba5-9247-5ce9657af450?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E03.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=ODgn8M5vFr0bUtjTpHKdDe19KpA%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620816493&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=726330402&x-amz-UID=172982920492925&x-amz-UFID=21374312281035480" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第四集">第四集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/7cf5fa73-3d12-4028-87eb-7dd2f82690bc?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E04.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=4%2BFP7Ru6RNUFdFaTVizP4Anhi0E%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620814385&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=694640127&x-amz-UID=172982920492925&x-amz-UFID=61385312280510670" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第五集">第五集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/31fb1003-9b66-43ce-af82-8a5aa7a96c92?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E05.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=R6bcru34bZ67mgn1%2BjFG%2BnNm7/g%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620817969&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=538652095&x-amz-UID=172982920492925&x-amz-UFID=61455312280836896" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第六集">第六集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/75b1d46b-e05b-483d-91ae-395b6664a383?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E06.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=FvdjekMLlZWPQiUrLKSTBJs2aV8%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620817809&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=569280665&x-amz-UID=172982920492925&x-amz-UFID=61455312280837036" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第七集">第七集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/ebd4199e-bc30-451f-a52c-5c95258832fd?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E07.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=TYrCqu4N%2B7RJ81llZYOtfke2DKY%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620814200&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=556497094&x-amz-UID=172982920492925&x-amz-UFID=61385312280510765" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第八集">第八集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/6f00acb6-2494-4696-ada7-8aadecfef61d?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E08.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=AtWML0zFKYDHtaUw%2BGFt3ZuFGCk%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620814194&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=616499432&x-amz-UID=172982920492925&x-amz-UFID=61385312280510783" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第九集">第九集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/f87a8b3a-c094-4f7a-a4cf-1a5534188257?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E09.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=o9qIxy1rMI%2B9ojFYMOxhTilmTvA%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620814630&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=684591564&x-amz-UID=172982920492925&x-amz-UFID=71511312288659283" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第十集">第十集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/d5768d6c-c289-4cf4-9264-9fd0c7102991?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E10.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=%2BNR7msqpDT964oysW1Nn95ViWJQ%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620818299&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=596015182&x-amz-UID=172982920492925&x-amz-UFID=81549312254269932" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第十一集">第十一集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/8119c511-2e47-4ed3-905f-9b54d503c395?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E11.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=qKu2AfCcJ4zoNe1NuDJ1H3Sl4aY%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620815407&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=548308551&x-amz-UID=172982920492925&x-amz-UFID=61385312280510096" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第十二集">第十二集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/4154b2ea-71f2-43c3-8f13-41d1825e143b?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E12.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=d2fTEpravfef8doS11hIqoSD%2BKk%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620820391&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=594533677&x-amz-UID=172982920492925&x-amz-UFID=61455312280836488" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<h2 id="第十三集">第十三集</h2>
+<p><amp-video controls width="640" height="360" src="https://cloud189-shzh-corp.oos-gdsz.ctyunapi.cn/67eb4277-1912-43d6-b709-9302a2025bda?response-content-disposition=attachment%3Bfilename%3D%22%C3%A7%C2%A6%C2%81%C3%A5%C2%BF%C2%8C%C3%A5%C2%A5%C2%B3%C3%A5%C2%AD%C2%A9S01E13.mp4%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=xTQpZu60JyihdbBiaGdlqgoF1v0%3D&AWSAccessKeyId=4549320003c8aac9538f&Expires=1620818860&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=537150798&x-amz-UID=172982920492925&x-amz-UFID=61455312280836448" poster="https://movie.douban.com/photos/photo/2534386043/#title-anchor"> </amp-video></p>
+<p>本站资源均网络搜集，如有关视频侵犯了你的权益，请联系邮箱：iqqz#qq.com(#改为@)，本站将于24小时内删除！</p>
 ]]></content>
     </entry>
 </feed>
