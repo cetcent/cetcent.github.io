@@ -2,11 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netfhx.github.io</id>
     <title>NETFHX</title>
-    <updated>2021-05-23T12:19:49.254Z</updated>
+    <updated>2021-05-24T01:29:53.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netfhx.github.io"/>
     <link rel="self" href="https://netfhx.github.io/atom.xml"/>
-    <subtitle>念念不忘，必有回响</subtitle>
+    <subtitle>I love 💻、🎮、🎬 and new technology !
+Welcome aboard my little 🚀 to escape the real world.
+
+I call it 「宇宙逃离指北」.</subtitle>
     <logo>https://netfhx.github.io/images/avatar.png</logo>
     <icon>https://netfhx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NETFHX</rights>
